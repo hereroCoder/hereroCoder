@@ -1,8 +1,9 @@
 # Hi, I'm Wame 👋
 
 ## About Me
-🧬 Biomedical Engineer
+🧬 Biomedical Engineering Graduate
 🚀 Recently completed the CodeFirstGirls Full-Stack Developer NanoDegree.
+
 
 
 ## Let's Connect
