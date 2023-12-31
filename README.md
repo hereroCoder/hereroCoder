@@ -1,10 +1,10 @@
 # Hi, I'm Wame 👋
 
 ## About Me
-🧬 Biomedical Engineering Graduate
-🚀 Recently completed the CodeFirstGirls Full-Stack Developer NanoDegree.
+💻 Full Stack Developer
+🔬 Biomedical Engineer
+🎵 Music Enthusiast
 
 
-
-## Let's Connect
-📫 Reach me at wamechibamo76@gmail.com for collaboration, tech talks, or just to connect. 
+## Let's Connect!!
+📫 Reach me at wamechibamo76@gmail.com 
