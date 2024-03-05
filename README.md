@@ -9,7 +9,7 @@
   <h2 align="center">Skills & Technologies</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,js,nodejs,py,express,react,redux,git,figma,mysql,vite,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwindcss,matlab,js,nodejs,py,express,react,redux,git,figma,mysql,vite,&perline=5#" />
   </a>
 </p>
   
